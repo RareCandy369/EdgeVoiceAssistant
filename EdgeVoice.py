@@ -4,7 +4,7 @@ import openai, pyttsx3
 import sys, whisper, warnings, time
 
 # Initialize the OpenAI API
-api_key = "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"
+api_key = "[enter API key here, minus brackets]"
 openai.api_key = api_key
 
 #Initialize speach recognition module
